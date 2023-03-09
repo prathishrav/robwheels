@@ -33,6 +33,8 @@ let bikes = [
         color: "black",
         bikeno:"TN 18 AC 1881",
         address:"A1.Station,AnnaNagar,Chennai,TamilNadu,",
+        isSold:false
+      
        
     },
     {
@@ -50,6 +52,8 @@ let bikes = [
         color: "black",
         bikeno:"TN 03 F 7564",
         address:"A2.Station,Ambattur,Chennai,TamilNadu",
+        isSold:false
+      
        
     },
 
@@ -68,6 +72,8 @@ let bikes = [
         color: "yellow",
         bikeno:"TN 03 X 1689",
         address:"A3.Station,Kolathur,Chennai,TamilNadu",
+        isSold:false
+      
 
     },
     {
